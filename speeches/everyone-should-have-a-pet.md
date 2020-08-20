@@ -1,4 +1,4 @@
-# Should everyone have a pet or not
+# Everyone should have a pet
 
 My answer is: both
 
