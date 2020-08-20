@@ -1,6 +1,6 @@
 # Everyone should have a pet
 
-My answer is: both
+### My answer is: both
 
 ### Good things for having pet are:
 * Some pets can protect you, like big cat and dogs
