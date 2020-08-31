@@ -1,5 +1,12 @@
 # A place to visit in Australia
 
-### My place in Australia is Cains.
+### My place to visit in Australia is Gold Coast.
 
-### Cains has lots of cool places. Like the restr
+### I choose Gold Coast because
+
+#### Gold coast has Sea World, in Sea world there are
+* Sky Fortress with rope bridges and tunnels in the sky
+* Seal show and Dolphin show
+* Water playground
+* Monorail
+* Polar bear and penguin
