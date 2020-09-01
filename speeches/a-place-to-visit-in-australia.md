@@ -10,3 +10,8 @@
 * Water playground
 * Monorail
 * Polar bear and penguin
+* Kids roller coaster
+
+#### Gold coast has Movie World and Dream World too
+
+
