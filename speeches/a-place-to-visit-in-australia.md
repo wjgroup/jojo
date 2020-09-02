@@ -10,6 +10,6 @@
 * Sky Fortress with bridges and tunnels made by ropes in the sky
 * Seal show and Dolphin show
 * Water playground
-* Monorail, my little brother loves monorail so much
-* Polar bear and penguin
+* Monorail (my little brother loves monorail so much)
+* Polar bear (always on asleep) and penguin
 * Kids roller coaster
