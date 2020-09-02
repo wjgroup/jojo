@@ -7,9 +7,9 @@
 #### Gold coast has lots of fun places, like Sea World, Movie World and beautiful and super long beaches
 
 #### In Sea world there are
-* Sky Fortress with rope bridges and tunnels in the sky
+* Sky Fortress with bridges and tunnels made by ropes in the sky
 * Seal show and Dolphin show
 * Water playground
-* Monorail
+* Monorail, my little brother loves monorail so much
 * Polar bear and penguin
 * Kids roller coaster
