@@ -12,4 +12,4 @@
 * Water playground
 * Monorail (my little brother loves monorail so much)
 * Polar bear (always on asleep) and penguin
-* Kids roller coaster
+* Small roller coaster for kids, and parents
