@@ -1,6 +1,9 @@
 # Should people climb Uluru
 
-### My answer is **NO**, because it is disrespectful to aboriginal people
+### My answer is **NO**, the reasons are:
 
-Did you know thousands of tiny rocks fell down of Uluru everyday because people were stepping and climing on it, by now it would be smaller than the Uluru we see todaty if goverment didn't ban climbing it.
-
+* It is disrespectful to aboriginal people
+* It is steep, desert hot and windy, not a good hiking place for all people. Many people died on it, most were caused by heart attack.
+* There were many accidents too, a 12 year girl fall 20 meters on Uluru in 2019, and in 2016 3 people were trapped in a steep crevice and had to ask helicopter to rescue them
+* There is no toilet on robbish bin on Uluru so people just left all kinds of waste on it, pollute the environment 
+* Years and years of footprints have permanently scarred Uluru, did you know thousands of tiny rocks fell down of Uluru everyday because people were stepping and climing on it, by now it would be smaller than the Uluru we see today if goverment didn't ban climbing it.
