@@ -1,6 +1,6 @@
 # Should people climb Uluru
 
-### My answer is **NO**, the reasons are:
+### My answer is **NO**, and these are my reasons why we must not climb Uluru:
 
 * It is disrespectful to aboriginal people
 * It is steep, desert hot and windy, it is not a good hiking place for all people. Many people died on it, most were caused by heart attack.
