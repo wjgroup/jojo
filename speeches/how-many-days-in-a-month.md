@@ -6,10 +6,7 @@ Well, I have a way to remember it.
 
 To start with, first you call the months a number instead of their actually names, then it will be easier to remember. For example, Jan is 1, Feb is 2, March is 3 Apr is 4, all the way to Dec, the 12th month of the year.
 
-
-
-
-Now let's start from all the months with 31 days, months 1, 3 ,5 ,7 all odd numbers, they have 31 days. 
+Now let's start from all the months with 31 days, the first 4 months have 31 days are 1, 3 ,5 ,7 all odd numbers. Then we switch to even numbers, that months 8, 10 and 12 are having 31 days too. So in total there are 
 
 Now let's talk about Feb, the special month. Feb normally has only 28 days. But this year, 2020, it has 29 days, and we call this year "Leap Year". And Feb will only have 29 days in every 4 years. Next time when Feb has 29 days is year 2024.
 
