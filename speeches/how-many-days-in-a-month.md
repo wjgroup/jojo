@@ -4,7 +4,9 @@
 
 Well, I have a way to remember it.
 
-To start with, first you call the months a number instead of their actually names, then it will be easier to remember. For example, Jan is 1, Feb is 2, March is 3 Apr is 4, all the way to Dec, the 12th month of the year.
+To start with, there are 12 months in a year. There are 7 months that having 31 days, 4 months that having 30 days and only 1 month having 28 days.
+
+first you call the months a number instead of their actually names, then it will be easier to remember. For example, Jan is 1, Feb is 2, March is 3 Apr is 4, all the way to Dec, the 12th month of the year.
 
 Now let's start from all the months with 31 days, the first 4 months have 31 days are 1, 3 ,5 ,7 all odd numbers. Then we switch to even numbers, that months 8, 10 and 12 are having 31 days too. So in total there are 
 
