@@ -10,8 +10,6 @@ First let's talk about the special month that having 28 days, February. Feb norm
 
 Now let's remember the 4 months that having 30 days, and they are April, June, September and November.
 
-Then, rest of the 7 months all have 31 days. For example, if someone ask you how many days there are in October, since October is no Feb, Apr, June, Sep or Nov, it must have 31 days.
-
-***You no need remember this , all the months that having 31 days are Jan, March, May, July, Augest, October, December.***
+Then, rest of the months all have 31 days, and they are January, March, May, July, Augest, October and December. You don't need to actually remember this, for example, if someone ask you how many days there are in October, since Oct is no Feb, Apr, Jun, Sep or Nov, it must have 31 days.
 
 Thank you.
